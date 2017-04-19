@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'PokemonGB';
+	src: url('./PokemonGB.eot');
+	src: local('PokemonGB'), url('./PokemonGB.woff') format('woff'), url('./PokemonGB.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_63205">Text with this font applied</p> */
+.fontsforweb_fontid_63205 {
+	font-family: 'PokemonGB' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */

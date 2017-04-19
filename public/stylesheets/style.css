@@ -1,0 +1,39 @@
+body {
+  padding-top: 50px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #0f0f0f;
+}
+.main-wrapper {
+  width: 100vw;
+  height: 100vh;
+}
+
+#navbarTitleName {
+  font-family: 'Grand Hotel', cursive;
+  font-size: 18px;
+}
+
+#contactMe{
+  background: url(bottle.jpg) no-repeat center center fixed;
+  background-size: 100% 100%;
+  background-color: black;
+}
+.contactMeTitle {
+  padding: 50px;
+  font-family: 'Gochi Hand', cursive;
+  color: whitesmoke;
+  text-shadow: 2px 2px black;
+  font-size: 80px;
+}
+#contactMe div  {
+  text-align: center;
+  /*display: block;*/
+  /*margin: 0 auto;*/
+  font-family: 'Gochi Hand', cursive;
+  color: black;
+  font-size: 25px;
+  text-shadow: 2px 2px whitesmoke;
+}
